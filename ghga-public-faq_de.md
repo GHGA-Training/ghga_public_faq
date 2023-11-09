@@ -50,7 +50,7 @@ Sobald die Zugangsanfragen von den Verantwortlichen genehmigt wurden, werden die
 
 ## Welche Datentypen werden von GHGA unterstützt?
 
-GHGA ist ein reines Archiv für humane Omics-Daten. Dazu gehören Sequenzierungs-Rohdaten, zugehörige Metadaten oder jede Art von humanen Omics-Daten. Die meisten Dateiformate werden dabei unterstützt. 
+Innerhalb von GHGA können nur humane Omics-Daten archiviert werden. Dazu gehören Sequenzierungs-Rohdaten, zugehörige Metadaten oder jede Art von humanen Omics-Daten. Die meisten Dateiformate werden dabei unterstützt. 
 
 Datensätze, die bei GHGA eingereicht werden sollen, müssen anhand des [GHGA-Metadatenschemas](https://www.ghga.de/resources/metadata-model) beschrieben werden, das hier auf [GitHub](https://github.com/ghga-de/ghga-metadata-schema) verfügbar ist. Weitere Erläuterungen finden sich in dem [GHGA Metadata auf Zenodo (englischsprachig)](https://doi.org/10.5281/zenodo.8341224).
 
