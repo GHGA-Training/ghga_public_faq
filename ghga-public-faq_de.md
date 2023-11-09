@@ -52,6 +52,8 @@ Sobald die Zugangsanfragen von den Verantwortlichen genehmigt wurden, werden die
 
 GHGA ist ein reines Archiv für humane Omics-Daten. Dazu gehören Sequenzierungs-Rohdaten, zugehörige Metadaten oder jede Art von humanen Omics-Daten. Die meisten Dateiformate werden dabei unterstützt. 
 
+Datensätze, die bei GHGA eingereicht werden sollen, müssen anhand des [GHGA-Metadatenschemas](https://www.ghga.de/resources/metadata-model) beschrieben werden, das hier auf [GitHub](https://github.com/ghga-de/ghga-metadata-schema) verfügbar ist. Weitere Erläuterungen finden sich in dem [GHGA Metadata auf Zenodo (englischsprachig)](https://doi.org/10.5281/zenodo.8341224).
+
 Für Daten aus nicht-humanen Modellsystemen, die nicht der geregelten Zugriffskontrolle unterliegen, empfehlen wir, spezielle Archive wie das [European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/home) zu nutzen.   
 Bitte wenden Sie sich an den [GHGA Helpdesk](https://www.ghga.de/about-us/contact), wenn Sie Daten einreichen oder spezielle Fragen haben.
 

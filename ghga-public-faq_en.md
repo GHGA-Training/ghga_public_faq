@@ -55,7 +55,9 @@ Once the access requests are approved by the controller, the data will be made a
 
 ## Which data types does GHGA support?
 
-GHGA is an archive for human omics data only, which can comprise sequencing raw data files, associated metadata files, or any type of human omics data. As such, most file formats will be supported. 
+GHGA is an archive for human omics data only, which can comprise sequencing raw data files, associated metadata files, or any type of human omics data. As such, most file formats will be supported.
+
+Datasets to be submitted to GHGA will need to be described using the [GHGA Metadata scheme](https://www.ghga.de/resources/metadata-model), which is available here on [GitHub](https://github.com/ghga-de/ghga-metadata-schema). Further details can be found in the [GHGA Metadata Whitepaper on Zenodo](https://doi.org/10.5281/zenodo.8341224).
 
 For data from non-human model systems that are not subject to controlled access, we advise users to use specialized archives such as [European Nucleotide Archive](https://www.ebi.ac.uk/ena/browser/home) (ENA). 
 
