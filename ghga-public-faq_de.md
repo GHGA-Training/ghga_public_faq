@@ -34,7 +34,7 @@ Genomsequenzierung in die Regelversorgung zu bringen und gleichzeitig die bestm�
 
 Ein Baustein ist die Schaffung einer zuverlässigen Infrastruktur für Genomdaten, in der die Forschungsdaten sicher archiviert und gemeinsam genutzt werden können. Gemeinsam mit den Partnereinrichtungen des genomDE-Projekts entwickelt GHGA technische und rechtliche Lösungen für die Archivierung und Sekundärnutzung von Daten aus dieser nationalen Genominitiative.
 
-# Using GHGA
+# Nutzung von GHGA
 
 ## Wie kann ich Daten bei GHGA hochladen?
 
